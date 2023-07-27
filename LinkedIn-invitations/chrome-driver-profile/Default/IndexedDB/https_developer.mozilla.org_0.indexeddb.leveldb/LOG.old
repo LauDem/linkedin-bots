@@ -1,0 +1,6 @@
+2023/01/23-11:50:44.444 2f51f Creating DB /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb since it was missing.
+2023/01/23-11:50:44.502 2f51f Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/23-11:52:07.468 3ff57 Level-0 table #5: started
+2023/01/23-11:52:07.489 3ff57 Level-0 table #5: 9301 bytes OK
+2023/01/23-11:52:07.528 3ff57 Delete type=0 #3
+2023/01/23-11:52:07.528 3ff57 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

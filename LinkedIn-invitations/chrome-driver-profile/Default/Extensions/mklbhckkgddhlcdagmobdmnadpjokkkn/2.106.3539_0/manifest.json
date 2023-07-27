@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "common/images/icons/logo/guru-chrome19.png",
+         "38": "common/images/icons/logo/guru-chrome38.png"
+      },
+      "default_title": "Guru"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "topFrameOnlyEntry.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "allFramesEntry.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Your team’s collective knowledge and process documentation, everywhere you need it.",
+   "differential_fingerprint": "1.16d5f9dacd96ef09ed335812bb8d997c87c9135296c13e288c59e0a58f7b5aff",
+   "host_permissions": [ "https://*/*", "http://*/*" ],
+   "icons": {
+      "128": "common/images/icons/logo/g-icon-128.png",
+      "16": "common/images/icons/logo/g-icon-16.png",
+      "48": "common/images/icons/logo/g-icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt5en6Stz2M2dUUK5H9lmuCHP3K5VKrDOd4ALkjNaE+OdpHp6iN8G18ucZy1AFCXWGN2aFBwU+lbAmpddY8VRSE9Rdtyp5Y6InsBQi+KIpPe/ZNwW/8ierxkG/W+tBZN8jAPCI+GuZqoyXHuti/TJxYeazoS8ya08Hp3JLVBgUrvQZ4HbmQUL4WHR+o+cgmtYWILN11W05rtq3TsJUP40QqLzOXc94m0e60KYHO5dRFKgUDPcVd7kn41gteS1crogcNdrEfJbNbKhkRY69U/rRaoizeNwgCUmJuFWnVZIyJ9k2NLH/O2d24zqlgiO+bIg5tuZptDqyj6MhdwhT8NhbQIDAQAB",
+   "manifest_version": 3,
+   "name": "Guru",
+   "permissions": [ "activeTab", "contextMenus", "alarms", "storage", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.106.3539",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "*" ]
+   } ]
+}

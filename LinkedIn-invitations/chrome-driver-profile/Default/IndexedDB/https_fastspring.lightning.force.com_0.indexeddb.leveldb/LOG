@@ -1,0 +1,39 @@
+2023/04/04-15:28:37.313 f503 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_fastspring.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000163
+2023/04/04-15:28:37.314 f503 Recovering log #170
+2023/04/04-15:28:37.317 f503 Reusing old log /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_fastspring.lightning.force.com_0.indexeddb.leveldb/000170.log 
+2023/04/04-15:28:38.175 8207 Compacting 3@0 + 1@1 files
+2023/04/04-15:28:38.388 8207 Generated table #173@0: 3505 keys, 3553770 bytes
+2023/04/04-15:28:38.401 8207 Compacted 3@0 + 1@1 files => 3553770 bytes
+2023/04/04-15:28:38.439 8207 compacted to: files[ 0 1 2 0 0 0 0 ]
+2023/04/04-15:28:38.441 8207 Delete type=2 #167
+2023/04/04-15:28:38.442 8207 Delete type=2 #171
+2023/04/04-15:28:38.442 8207 Delete type=2 #165
+2023/04/04-15:28:38.443 8207 Delete type=2 #169
+2023/04/04-15:28:48.960 a103 Compacting 1@1 + 2@2 files
+2023/04/04-15:28:49.053 a103 Generated table #174@1: 1162 keys, 671877 bytes
+2023/04/04-15:28:49.053 a103 Compacted 1@1 + 2@2 files => 671877 bytes
+2023/04/04-15:28:49.092 a103 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/04-15:28:49.093 a103 Delete type=2 #161
+2023/04/04-15:28:49.110 a103 Delete type=2 #162
+2023/04/04-15:28:49.111 a103 Delete type=2 #173
+2023/04/04-15:29:38.273 a103 Level-0 table #176: started
+2023/04/04-15:29:38.494 a103 Level-0 table #176: 2040168 bytes OK
+2023/04/04-15:29:38.536 a103 Delete type=0 #170
+2023/04/04-15:29:40.631 a103 Compacting 1@1 + 1@2 files
+2023/04/04-15:29:40.684 a103 Generated table #177@1: 1392 keys, 1219303 bytes
+2023/04/04-15:29:40.702 a103 Compacted 1@1 + 1@2 files => 1219303 bytes
+2023/04/04-15:29:40.740 a103 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/04-15:29:40.741 a103 Delete type=2 #174
+2023/04/04-15:29:40.760 a103 Delete type=2 #176
+2023/04/04-15:43:00.442 a103 Level-0 table #179: started
+2023/04/04-15:43:00.471 a103 Level-0 table #179: 582474 bytes OK
+2023/04/04-15:43:00.512 a103 Delete type=0 #175
+2023/04/04-15:43:00.513 a103 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/04-15:43:00.513 a103 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0b\x01\x1f\x03\x00\x10I\xe1\x84\xafxB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 103460 : 1
+2023/04/04-15:43:00.513 a103 Compacting 1@1 + 1@2 files
+2023/04/04-15:43:00.561 a103 Generated table #180@1: 1422 keys, 1102256 bytes
+2023/04/04-15:43:00.561 a103 Compacted 1@1 + 1@2 files => 1102256 bytes
+2023/04/04-15:43:00.600 a103 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/04-15:43:00.600 a103 Delete type=2 #177
+2023/04/04-15:43:00.600 a103 Delete type=2 #179
+2023/04/04-15:43:00.601 a103 Manual compaction at level-1 from '\x00\x0b\x01\x1f\x03\x00\x10I\xe1\x84\xafxB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 103460 : 1 .. (end); will stop at (end)

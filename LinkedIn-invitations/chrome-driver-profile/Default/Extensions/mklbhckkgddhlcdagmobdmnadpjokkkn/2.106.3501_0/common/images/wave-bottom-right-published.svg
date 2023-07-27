@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="151px" viewBox="0 0 122 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="27.5459348%" x2="95.3914897%" y2="27.5459348%" id="linearGradient-1">
+            <stop stop-color="#2357FF" offset="0%"></stop>
+            <stop stop-color="#4F4BE2" offset="26.5780369%"></stop>
+            <stop stop-color="#8E39B9" offset="47.3441207%"></stop>
+            <stop stop-color="#BC2D9A" offset="61.8732733%"></stop>
+            <stop stop-color="#FF1A6E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4,0 L150,0 L150,0 C136.95,30.7 122.025,45 110.85,51.6 C80.4,69.6 56.4,52 29.85,72.3 C12.825,85.3 4.35,106.8 0,121 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-2"></path>
+    </defs>
+    <g id="wave-bottom-right-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(61.000000, 75.500000) scale(-1, 1) rotate(-90.000000) translate(-61.000000, -75.500000) translate(-14.000000, 15.000000)" fill-rule="nonzero">
+            <g >
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <use fill-opacity="0.3" fill="#FFFFFF" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<path fill="#F84380" d="M52.08,7.42c-24.85,0-45,20.15-45,45s20.15,45,45,45s45-20.15,45-45S76.93,7.42,52.08,7.42z M52.08,18.42
+		c7.4,0,14.25,2.37,19.83,6.39L24.47,72.25c-4.02-5.58-6.39-12.43-6.39-19.83C18.08,33.64,33.3,18.42,52.08,18.42z M52.08,86.42
+		c-7.4,0-14.25-2.37-19.83-6.39l47.44-47.44c4.02,5.58,6.39,12.43,6.39,19.83C86.08,71.2,70.86,86.42,52.08,86.42z"/>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M39.33,81.46c3.47,1.19,7.19,1.84,11.06,1.84c18.78,0,34-15.22,34-34c0-7.32-2.32-14.09-6.25-19.64"/>
+		<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M61.39,17.51c-3.47-1.19-7.19-1.84-11.06-1.84c-18.78,0-34,15.22-34,34c0,7.32,2.32,14.09,6.25,19.64"/>
+		<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M85.62,21.83c5.93,7.62,9.46,17.19,9.46,27.59c0,24.85-20.15,45-45,45c-10.4,0-19.97-3.54-27.59-9.46
+			c-2.91-2.26-5.52-4.87-7.8-7.76c-6.01-7.65-9.61-17.29-9.61-27.78c0-24.85,20.15-45,45-45c10.49,0,20.13,3.6,27.78,9.61
+			l-7.89,7.89"/>
+		<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M85.62,21.83c-0.92-1.18-1.89-2.31-2.92-3.4"/>
+		<g>
+			<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M30.31,77.14l47.5-47.5"/>
+			<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M69.97,21.92L22.59,69.3"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Outreach Everywhere","img/38.png","devtools/panel.html");

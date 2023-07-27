@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500,500italic);
+
+#popup_container {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	min-width: 300px; /* Dialog will be no smaller than this */
+	max-width: 600px; /* Dialog will wrap after this width */
+	background: #FFF;
+	border: solid 1px #ccc;
+	color: #000;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	font-family: 'Roboto',sans-serif;
+}
+
+#popup_title {
+	font-size: 18px;
+	font-weight: 500;
+	text-align: left;
+	line-height: 1.75em;
+	color: #000;
+	background: #fff url('../images/title.gif') top repeat-x;
+	border: solid 1px #FFF;
+	/*border-bottom: solid 1px #999;*/
+	padding-left: 1.5em;
+	padding-top: 10px;
+	cursor: default;
+	/*padding: 0em;*/
+	margin: 0em;
+	font-family: 'Roboto',sans-serif;
+}
+
+#popup_content {
+	/*background: 16px 16px no-repeat url('../images/info.gif');*/
+	padding: 1.5em 2em;
+	margin: 0em;
+	text-align: left;	
+	font-family: 'Roboto',sans-serif;
+	word-wrap: break-word;
+}
+
+#popup_content.alert {
+	/*background-image: url('../images/info.gif');*/
+}
+
+#popup_content.confirm {
+	/*background-image: url('../images/important.gif');*/
+}
+
+#popup_content.prompt {
+	/*background-image: url('../images/help.gif');*/
+}
+
+#popup_message {
+	/*padding-left: 48px;*/
+}
+
+#popup_panel {
+	text-align: right;
+	margin: 2em 0em 0em 1em;
+}
+
+#popup_prompt {
+	margin: .5em 0em;
+}
+#popup_panel input[type="button"] {
+    min-width: 60px;
+    padding: 5px 0;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#popup_ok {
+	/*color: #333;	
+	cursor:pointer;*/
+	background-color: #fff;
+	font-family: arial,sans-serif;
+	color: #333;	
+	border: 1px solid #2f5bb7;
+	cursor:pointer;
+
+}
+
+#popup_cancel {
+	background-color: #4885ed;
+	font-family: arial,sans-serif;
+	color: #fff;	
+	border: 1px solid #2f5bb7;
+	cursor:pointer;
+}
+
+.close {
+	position: absolute;
+    height: 10px;
+    width: 10px;
+    right: 15px;
+    top: 20px;
+    font-size: 16px;
+    cursor:pointer;
+}
+
+

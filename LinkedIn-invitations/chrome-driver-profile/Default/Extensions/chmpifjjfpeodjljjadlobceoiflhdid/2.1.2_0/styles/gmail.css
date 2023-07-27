@@ -1,0 +1,66 @@
+/* Prospect indicator: Aligns the thread list item's recipients */
+.yX.xY > .yW span[email]:first-of-type {
+  padding-left: 12px;
+}
+.yX.xY > .yW span[email] > or-shadow-host {
+  margin-left: -12px;
+}
+/* End: Prospect indicator */
+
+/* Thread list decorations: Aligns the thread list item's subject */
+/* The following two styles are for preventing the row horizontal jumping when the user interacts with it */
+tr[label-for-css] > .xY.a4W > .xS > .xT > .y6 {
+  line-height: 24px;
+}
+tr[label-for-css] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  margin-top: 18px;
+}
+
+tr[label-for-css='col-1-dig-0'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 28px;
+}
+
+tr[label-for-css='col-1-dig-1'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 38px;
+}
+
+tr[label-for-css='col-1-dig-2'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 46px;
+}
+
+tr[label-for-css='col-1-dig-3'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 54px;
+}
+
+tr[label-for-css='col-2-dig-0'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 56px;
+}
+
+tr[label-for-css='col-2-dig-1'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 66px;
+}
+
+tr[label-for-css='col-2-dig-2'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 74px;
+}
+
+tr[label-for-css='col-2-dig-3'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 82px;
+}
+
+tr[label-for-css='col-3-dig-0'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 84px;
+}
+
+tr[label-for-css='col-3-dig-1'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 94px;
+}
+
+tr[label-for-css='col-3-dig-2'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 102px;
+}
+
+tr[label-for-css='col-3-dig-3'] > .xY.a4W > .xS > .xT > :first-child:not(or-shadow-host) {
+  padding-left: 110px;
+}
+/* End: Thread list decorations */

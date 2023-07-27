@@ -1,0 +1,15 @@
+2023/05/30-09:04:06.323 8207 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/30-09:04:06.324 8207 Recovering log #31
+2023/05/30-09:04:06.341 8207 Reusing old log /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000031.log 
+2023/05/30-22:42:47.981 a503 Level-0 table #36: started
+2023/05/30-22:42:48.015 a503 Level-0 table #36: 184992 bytes OK
+2023/05/30-22:42:48.070 a503 Delete type=0 #31
+2023/05/30-22:42:48.079 a503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/30-22:42:48.079 a503 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6687 : 1
+2023/05/30-22:42:48.079 a503 Compacting 1@1 + 1@2 files
+2023/05/30-22:42:48.095 a503 Generated table #37@1: 34 keys, 792 bytes
+2023/05/30-22:42:48.095 a503 Compacted 1@1 + 1@2 files => 792 bytes
+2023/05/30-22:42:48.107 a503 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/30-22:42:48.108 a503 Delete type=2 #36
+2023/05/30-22:42:48.108 a503 Delete type=2 #33
+2023/05/30-22:42:48.120 a503 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6687 : 1 .. (end); will stop at (end)

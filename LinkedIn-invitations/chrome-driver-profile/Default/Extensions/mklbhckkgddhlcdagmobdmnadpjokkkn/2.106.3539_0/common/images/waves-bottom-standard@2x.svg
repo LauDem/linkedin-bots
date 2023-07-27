@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1029px" height="75px" viewBox="0 0 1029 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Gradient Wave</title>
+    <defs>
+        <linearGradient x1="36.5018608%" y1="87.0727681%" x2="69.8466226%" y2="87.0727681%" id="linearGradient-1">
+            <stop stop-color="#A6F3C6" offset="0%"></stop>
+            <stop stop-color="#87FFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sign-up-page---2nd-teammember" transform="translate(-411.000000, -825.000000)" fill="url(#linearGradient-1)">
+            <g id="Fill-1" transform="translate(411.000000, 825.000000)">
+                <path d="M707.968055,39.8283768 C645.382995,32.1948223 576.701956,30.2541455 511.183708,34.2675541 C451.100009,37.9486485 394.699286,46.4422537 335.97018,52.0635412 C277.240453,57.6848287 212.535458,60.2809434 156.315181,52.2831492 C87.5936967,42.5072074 47.7604485,19.7627847 0,0 L0,75 L1029,75 C981.410052,72.9690051 975.068773,71.2842173 894.334769,63.8630149 C853.229062,60.8093029 747.531256,44.6539481 707.968055,39.8283768 Z" transform="translate(514.500000, 37.500000) scale(-1, 1) translate(-514.500000, -37.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

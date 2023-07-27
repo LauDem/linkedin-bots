@@ -1,0 +1,53 @@
+2023/05/25-08:55:53.784 8207 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/Local Extension Settings/chmpifjjfpeodjljjadlobceoiflhdid/MANIFEST-000001
+2023/05/25-08:55:53.785 8207 Recovering log #3
+2023/05/25-08:55:53.786 8207 Reusing old log /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/Local Extension Settings/chmpifjjfpeodjljjadlobceoiflhdid/000003.log 
+2023/05/25-09:09:58.548 8603 Level-0 table #5: started
+2023/05/25-09:09:58.590 8603 Level-0 table #5: 910759 bytes OK
+2023/05/25-09:09:58.648 8603 Delete type=0 #3
+2023/05/25-09:32:19.418 8603 Level-0 table #7: started
+2023/05/25-09:32:19.452 8603 Level-0 table #7: 911228 bytes OK
+2023/05/25-09:32:19.491 8603 Delete type=0 #4
+2023/05/25-09:38:54.666 8603 Level-0 table #9: started
+2023/05/25-09:38:54.699 8603 Level-0 table #9: 911749 bytes OK
+2023/05/25-09:38:54.738 8603 Delete type=0 #6
+2023/05/25-09:39:08.565 8603 Compacting 1@1 + 1@2 files
+2023/05/25-09:39:08.588 8603 Generated table #10@1: 6 keys, 64794 bytes
+2023/05/25-09:39:08.588 8603 Compacted 1@1 + 1@2 files => 64794 bytes
+2023/05/25-09:39:08.627 8603 compacted to: files[ 1 0 1 0 0 0 0 ]
+2023/05/25-09:39:08.628 8603 Delete type=2 #7
+2023/05/25-09:39:08.628 8603 Delete type=2 #5
+2023/05/25-09:50:31.716 f503 Level-0 table #12: started
+2023/05/25-09:50:31.807 f503 Level-0 table #12: 910171 bytes OK
+2023/05/25-09:50:31.851 f503 Delete type=0 #8
+2023/05/25-10:36:51.005 8603 Compacting 2@0 + 0@1 files
+2023/05/25-10:36:51.029 8603 Generated table #13@0: 2 keys, 31958 bytes
+2023/05/25-10:36:51.029 8603 Compacted 2@0 + 0@1 files => 31958 bytes
+2023/05/25-10:36:51.065 8603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-10:36:51.065 8603 Delete type=2 #12
+2023/05/25-10:36:51.065 8603 Delete type=2 #9
+2023/05/25-10:37:10.790 8603 Level-0 table #15: started
+2023/05/25-10:37:10.822 8603 Level-0 table #15: 914971 bytes OK
+2023/05/25-10:37:10.862 8603 Delete type=0 #11
+2023/05/25-10:44:48.660 f603 Level-0 table #17: started
+2023/05/25-10:44:48.713 f603 Level-0 table #17: 913192 bytes OK
+2023/05/25-10:44:48.753 f603 Delete type=0 #14
+2023/05/25-11:54:24.561 8603 Compacting 2@0 + 1@1 files
+2023/05/25-11:54:24.587 8603 Generated table #18@0: 3 keys, 63973 bytes
+2023/05/25-11:54:24.587 8603 Compacted 2@0 + 1@1 files => 63973 bytes
+2023/05/25-11:54:24.626 8603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-11:54:24.627 8603 Delete type=2 #15
+2023/05/25-11:54:24.627 8603 Delete type=2 #17
+2023/05/25-11:54:24.627 8603 Delete type=2 #13
+2023/05/25-11:57:10.223 8207 Level-0 table #20: started
+2023/05/25-11:57:10.278 8207 Level-0 table #20: 914074 bytes OK
+2023/05/25-11:57:10.318 8207 Delete type=0 #16
+2023/05/25-12:31:00.508 f503 Level-0 table #22: started
+2023/05/25-12:31:00.627 f503 Level-0 table #22: 913983 bytes OK
+2023/05/25-12:31:00.667 f503 Delete type=0 #19
+2023/05/25-13:01:05.351 f603 Compacting 2@0 + 1@1 files
+2023/05/25-13:01:05.385 f603 Generated table #23@0: 3 keys, 63886 bytes
+2023/05/25-13:01:05.385 f603 Compacted 2@0 + 1@1 files => 63886 bytes
+2023/05/25-13:01:05.424 f603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-13:01:05.426 f603 Delete type=2 #20
+2023/05/25-13:01:05.426 f603 Delete type=2 #22
+2023/05/25-13:01:05.426 f603 Delete type=2 #18

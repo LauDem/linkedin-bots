@@ -1,0 +1,10 @@
+body {
+    /*
+    top right bottom left
+    */
+    padding: 5px 5px 5px 5px;
+}
+
+table.table {
+    margin-bottom: 0;
+}

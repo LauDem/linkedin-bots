@@ -1,0 +1,17 @@
+2023/03/31-09:27:05.416 8307 Recovering log #159
+2023/03/31-09:27:05.421 8307 Reusing old log /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_fastspring.lightning.force.com_0.indexeddb.leveldb/000159.log 
+2023/03/31-09:27:05.486 8307 Delete type=3 #1
+2023/03/31-09:27:07.342 a303 Level-0 table #165: started
+2023/03/31-09:27:07.360 8307 Current memtable full; waiting...
+2023/03/31-09:27:07.388 a303 Level-0 table #165: 2237239 bytes OK
+2023/03/31-09:27:07.428 a303 Delete type=0 #159
+2023/03/31-09:27:07.433 a303 Level-0 table #167: started
+2023/03/31-09:27:07.451 8307 Current memtable full; waiting...
+2023/03/31-09:27:07.480 a303 Level-0 table #167: 1806280 bytes OK
+2023/03/31-09:27:07.521 a303 Delete type=0 #164
+2023/03/31-09:27:07.523 a303 Level-0 table #169: started
+2023/03/31-09:27:07.610 a303 Level-0 table #169: 1791363 bytes OK
+2023/03/31-09:27:07.650 a303 Delete type=0 #166
+2023/03/31-09:27:17.166 8307 Level-0 table #171: started
+2023/03/31-09:27:17.228 8307 Level-0 table #171: 1721016 bytes OK
+2023/03/31-09:27:17.266 8307 Delete type=0 #168

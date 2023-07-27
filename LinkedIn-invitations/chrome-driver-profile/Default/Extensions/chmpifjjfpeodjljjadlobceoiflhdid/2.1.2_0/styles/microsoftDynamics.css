@@ -1,0 +1,7 @@
+/* TODO(devmao)[EP-2778]: remove "html:not(.supported-by-outreach-everywhere)" selector when the support for the legacy salesforce lightning extension ends  */
+
+html:not(.supported-by-outreach-everywhere):not(.outreach-everywhere-sidebar-expanded).outreach-everywhere-sidebar-open
+  #shell-container {
+  /* NOTE: It **MUST** match the `SIDEBAR_WIDTH` const value in `IframeSidebar/index.tsx` */
+  width: calc(100% - 400px);
+}

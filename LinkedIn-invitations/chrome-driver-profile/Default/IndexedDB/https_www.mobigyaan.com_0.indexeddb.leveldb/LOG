@@ -1,0 +1,18 @@
+2023/02/05-12:23:42.372 bf6f Creating DB /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_www.mobigyaan.com_0.indexeddb.leveldb since it was missing.
+2023/02/05-12:23:42.431 bf6f Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_www.mobigyaan.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/05-12:23:42.727 2d39f Level-0 table #5: started
+2023/02/05-12:23:42.763 2d39f Level-0 table #5: 564 bytes OK
+2023/02/05-12:23:42.804 2d39f Delete type=0 #3
+2023/02/05-12:23:42.804 2d39f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/05-12:23:44.790 be4b Level-0 table #7: started
+2023/02/05-12:23:44.813 be4b Level-0 table #7: 256 bytes OK
+2023/02/05-12:23:44.856 be4b Delete type=0 #4
+2023/02/05-12:23:44.858 31707 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/05-12:23:44.860 f083 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2023/02/05-12:23:44.860 f083 Compacting 1@1 + 1@2 files
+2023/02/05-12:23:44.881 f083 Generated table #8@1: 6 keys, 253 bytes
+2023/02/05-12:23:44.881 f083 Compacted 1@1 + 1@2 files => 253 bytes
+2023/02/05-12:23:44.920 f083 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/05-12:23:44.921 f083 Delete type=2 #7
+2023/02/05-12:23:44.921 f083 Delete type=2 #5
+2023/02/05-12:23:44.921 f083 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

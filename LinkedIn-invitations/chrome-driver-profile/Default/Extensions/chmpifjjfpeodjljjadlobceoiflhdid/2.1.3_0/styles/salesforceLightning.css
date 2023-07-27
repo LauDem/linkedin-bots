@@ -1,0 +1,21 @@
+/* TODO(devmao)[EP-2778]: remove "html:not(.supported-by-outreach-everywhere)" selector when the support for the legacy salesforce lightning extension ends  */
+
+html:not(.supported-by-outreach-everywhere):not(.outreach-everywhere-sidebar-expanded).outreach-everywhere-sidebar-open
+  .container
+  .viewport {
+  /* NOTE: It **MUST** match the `SIDEBAR_WIDTH` const value in `IframeSidebar/index.tsx` */
+  margin-right: 400px;
+}
+
+html:not(.supported-by-outreach-everywhere):not(.outreach-everywhere-sidebar-expanded).outreach-everywhere-sidebar-open
+  .container
+  .viewport
+  :is(#oneHeader, one-appnav) {
+  /* NOTE: It **MUST** match the `SIDEBAR_WIDTH` const value in `IframeSidebar/index.tsx` */
+  width: calc(100% - 400px);
+}
+
+/* TODO(devmao)[EP-2615]: disable this override when the decorations is disabled in the settings */
+html:not(.supported-by-outreach-everywhere) .openctiOutputPhone lightning-icon {
+  display: none;
+}

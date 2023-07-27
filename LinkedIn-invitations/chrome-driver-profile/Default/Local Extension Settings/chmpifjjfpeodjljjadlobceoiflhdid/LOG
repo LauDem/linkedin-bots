@@ -1,0 +1,66 @@
+2023/05/26-09:34:14.874 b203 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/Local Extension Settings/chmpifjjfpeodjljjadlobceoiflhdid/MANIFEST-000001
+2023/05/26-09:34:14.875 b203 Recovering log #21
+2023/05/26-09:34:14.881 b203 Reusing old log /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/Local Extension Settings/chmpifjjfpeodjljjadlobceoiflhdid/000021.log 
+2023/05/26-09:34:15.417 b203 Level-0 table #26: started
+2023/05/26-09:34:15.447 b203 Level-0 table #26: 914305 bytes OK
+2023/05/26-09:34:15.488 b203 Delete type=0 #21
+2023/05/26-16:53:07.111 a503 Level-0 table #28: started
+2023/05/26-16:53:07.141 a503 Level-0 table #28: 946266 bytes OK
+2023/05/26-16:53:07.181 a503 Delete type=0 #25
+2023/05/26-22:15:11.607 a503 Level-0 table #30: started
+2023/05/26-22:15:11.636 a503 Level-0 table #30: 966449 bytes OK
+2023/05/26-22:15:11.674 a503 Delete type=0 #27
+2023/05/30-09:04:08.136 8207 Level-0 table #32: started
+2023/05/30-09:04:08.174 8207 Level-0 table #32: 964511 bytes OK
+2023/05/30-09:04:08.216 8207 Delete type=0 #29
+2023/05/30-09:04:08.218 8207 Compacting 4@0 + 1@1 files
+2023/05/30-09:04:08.244 8207 Generated table #33@0: 3 keys, 61586 bytes
+2023/05/30-09:04:08.244 8207 Compacted 4@0 + 1@1 files => 61586 bytes
+2023/05/30-09:04:08.283 8207 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/30-09:04:08.284 8207 Delete type=2 #28
+2023/05/30-09:04:08.284 8207 Delete type=2 #23
+2023/05/30-09:04:08.284 8207 Delete type=2 #26
+2023/05/30-09:04:08.284 8207 Delete type=2 #32
+2023/05/30-09:04:08.284 8207 Delete type=2 #30
+2023/05/30-14:36:17.145 a503 Level-0 table #35: started
+2023/05/30-14:36:17.220 a503 Level-0 table #35: 972063 bytes OK
+2023/05/30-14:36:17.261 a503 Delete type=0 #31
+2023/05/30-21:21:52.602 a503 Level-0 table #37: started
+2023/05/30-21:21:52.670 a503 Level-0 table #37: 968239 bytes OK
+2023/05/30-21:21:52.710 a503 Delete type=0 #34
+2023/05/31-00:25:56.604 a503 Level-0 table #39: started
+2023/05/31-00:25:56.644 a503 Level-0 table #39: 950815 bytes OK
+2023/05/31-00:25:56.684 a503 Delete type=0 #36
+2023/05/31-09:26:30.235 a503 Level-0 table #41: started
+2023/05/31-09:26:30.278 a503 Level-0 table #41: 952056 bytes OK
+2023/05/31-09:26:30.317 a503 Delete type=0 #38
+2023/05/31-09:26:30.319 b203 Compacting 4@0 + 1@1 files
+2023/05/31-09:26:30.346 b203 Generated table #42@0: 3 keys, 64916 bytes
+2023/05/31-09:26:30.346 b203 Compacted 4@0 + 1@1 files => 64916 bytes
+2023/05/31-09:26:30.384 b203 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/31-09:26:30.385 b203 Delete type=2 #39
+2023/05/31-09:26:30.385 b203 Delete type=2 #35
+2023/05/31-09:26:30.385 b203 Delete type=2 #37
+2023/05/31-09:26:30.385 b203 Delete type=2 #33
+2023/05/31-09:26:30.385 b203 Delete type=2 #41
+2023/05/31-15:01:16.962 a503 Level-0 table #44: started
+2023/05/31-15:01:17.072 a503 Level-0 table #44: 973942 bytes OK
+2023/05/31-15:01:17.112 a503 Delete type=0 #40
+2023/05/31-15:21:04.330 a503 Level-0 table #46: started
+2023/05/31-15:21:04.361 a503 Level-0 table #46: 977377 bytes OK
+2023/05/31-15:21:04.401 a503 Delete type=0 #43
+2023/06/01-00:11:38.586 a503 Level-0 table #48: started
+2023/06/01-00:11:38.681 a503 Level-0 table #48: 978577 bytes OK
+2023/06/01-00:11:38.726 a503 Delete type=0 #45
+2023/06/01-17:10:10.484 a503 Level-0 table #50: started
+2023/06/01-17:10:10.596 a503 Level-0 table #50: 978669 bytes OK
+2023/06/01-17:10:10.634 a503 Delete type=0 #47
+2023/06/01-17:10:10.656 a503 Compacting 4@0 + 1@1 files
+2023/06/01-17:10:10.697 a503 Generated table #51@0: 3 keys, 65299 bytes
+2023/06/01-17:10:10.697 a503 Compacted 4@0 + 1@1 files => 65299 bytes
+2023/06/01-17:10:10.734 a503 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/01-17:10:10.735 a503 Delete type=2 #48
+2023/06/01-17:10:10.735 a503 Delete type=2 #42
+2023/06/01-17:10:10.735 a503 Delete type=2 #50
+2023/06/01-17:10:10.735 a503 Delete type=2 #44
+2023/06/01-17:10:10.735 a503 Delete type=2 #46

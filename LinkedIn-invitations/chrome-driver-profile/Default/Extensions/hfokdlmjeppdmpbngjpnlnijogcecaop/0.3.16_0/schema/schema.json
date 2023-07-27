@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "phishAlertService": {
+      "title": "Service Configuration Object",
+      "description": "The root level service configuration object, all settings for the extension will be configured here.",
+      "type": "object",
+      "properties": {
+        "loglevel": {"type": "string", "title": "Log level for console logging"},
+        "api_key":  {"type" : "string", "title": "Phish Alert API key"},
+        "base" :    {"type": "string", "title": "Base Domain", "description": "Service base domain and api path."},
+        "icon_url" :    {"type": "string", "title": "Icon URL", "description": "URL of icon to be used."},
+        "simple_content" :  {"type": "string", "optional":"true", "title": "Email Content Flag", "description": "Flags if the email content is to be simple or not."},
+        "endpoints" : {
+          "title": "API Endpoints",
+          "description": "Object describing the service endpoints.",
+          "type": "object",
+          "properties" : {
+            "forwardEmails" : {"type" : "string"},
+            "report" :        {"type" : "string"},
+            "initialized" :   {"type" : "string"}
+          }
+        }
+      }
+    }
+  }
+}
+

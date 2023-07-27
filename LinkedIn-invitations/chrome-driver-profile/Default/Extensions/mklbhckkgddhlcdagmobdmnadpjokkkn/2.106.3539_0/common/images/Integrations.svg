@@ -1,0 +1,42 @@
+<svg width="151" height="109" viewBox="0 0 151 109" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.2" d="M6.74472 28.4297C6.60827 27.3799 7.31216 26.3947 8.35029 26.1825L128.855 1.54779C129.949 1.32423 131.002 2.0391 131.196 3.13661L145.917 86.5176C146.114 87.6337 145.345 88.7026 144.224 88.8726L19.0991 107.838C18.0007 108.005 16.9892 107.243 16.846 106.142L6.74472 28.4297Z" fill="url(#paint0_linear_979_26577)"/>
+<rect x="13.2485" y="12.0061" width="115.901" height="78.7961" rx="3.5" fill="white" stroke="black"/>
+<path d="M113.327 4.75437L130.46 0.992294L131.579 6.19725" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 36.1627H62.4186" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 40.3945H62.4186" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 58.3273H62.4186" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 80.7631H60.6814" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.7485 12.0061H39.1293V90.8022H16.7485C14.8155 90.8022 13.2485 89.2352 13.2485 87.3022V15.5061C13.2485 13.5731 14.8155 12.0061 16.7485 12.0061Z" fill="#090B0E" stroke="#090B0E"/>
+<rect x="50.6097" y="29.1562" width="83.6855" height="41.2774" rx="1.5" fill="#090B0E" stroke="black" stroke-linejoin="round"/>
+<path d="M45.42 32.0984H90.3123" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 54.2631H90.3123" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 76.6988H72.6028" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M62.4186 80.7631H99.4785" stroke="#090B0E" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="50.0867" y="30.1471" width="83.6855" height="41.2774" rx="1.5" fill="#D9FFEF" stroke="black" stroke-linejoin="round"/>
+<path d="M64.4941 42.8832C64.4941 45.0448 62.8725 46.7343 60.947 46.7343C59.0216 46.7343 57.4 45.0448 57.4 42.8832C57.4 40.7216 59.0216 39.0321 60.947 39.0321C62.8725 39.0321 64.4941 40.7216 64.4941 42.8832Z" fill="#86EFCE" stroke="#090B0E"/>
+<path d="M56.9 62.9147L115.135 62.9147" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M68.2295 45.5171H80.4512" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.3434 24.0789H24.2875" stroke="#D6F5EA" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.3434 20.0145H35.6823" stroke="#D6F5EA" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.42 20.0145H53.9194" stroke="#86EFCE" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.1815 20.0145H75.5204" stroke="#86EFCE" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M56.9 58.3273H97.794" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="68.3661" y="39.4293" width="25.6721" height="1.93029" rx="0.965145" fill="#86EFCE" stroke="black"/>
+<path d="M7.24203 32.4091L8.76786 43.3455" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.2368 101.703L17.1498 107.521L45.81 103.542" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M142.578 89.2523L146.357 88.563L143.723 74.6212" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0.305359" y="88.4739" width="4.90353" height="5.27197" fill="#D9FFEF"/>
+<rect x="3.25705" y="91.1132" width="3.18979" height="3.5046" stroke="black"/>
+<rect x="5.20886" y="77.7085" width="4.18979" height="4.5046" fill="#CEFFFD"/>
+<ellipse cx="147.55" cy="17.0517" rx="2.75574" ry="2.9628" fill="#CEFFFD"/>
+<ellipse cx="146.27" cy="3.34132" rx="3.05428" ry="3.28377" fill="#D9FFEF"/>
+<path d="M148.228 16.25C148.228 17.6449 147.184 18.7128 145.972 18.7128C144.76 18.7128 143.716 17.6449 143.716 16.25C143.716 14.8551 144.76 13.7872 145.972 13.7872C147.184 13.7872 148.228 14.8551 148.228 16.25Z" stroke="black"/>
+<defs>
+<linearGradient id="paint0_linear_979_26577" x1="11.0634" y1="63.2037" x2="141.083" y2="46.905" gradientUnits="userSpaceOnUse">
+<stop stop-color="#96F2BC"/>
+<stop offset="0.3029" stop-color="#7FF5CD"/>
+<stop offset="0.9355" stop-color="#44FEFA"/>
+<stop offset="1" stop-color="#3EFFFF"/>
+</linearGradient>
+</defs>
+</svg>

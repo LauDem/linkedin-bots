@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": "icons/phishing-icon.png",
+      "default_popup": "html/popup.html",
+      "default_title": "Phish Alert"
+   },
+   "background": {
+      "service_worker": "src/background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/jquery.alerts.css", "css/jquery-confirm.min.css" ],
+      "js": [ "src/content.js" ],
+      "matches": [ "*://mail.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Chrome Extension to add phish reporting functionality to Gmail.",
+   "differential_fingerprint": "1.a24c3b473c53bd88985478b75b57ac122ffc5a0bb8fb177bdb8f68e132db02d2",
+   "host_permissions": [ "https://www.googleapis.com/gmail/*", "https://training.knowbe4.com/", "https://eu.knowbe4.com/", "https://ca.knowbe4.com/", "https://www.google.com/*", "https://mail.google.com/", "https://de.knowbe4.com/", "https://uk.knowbe4.com/" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "64": "icons/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg0wZuRLCBP7VkzJQxnUTyKVXKoj4J86L7Z72QYhTqUp4sQ3QP8vudI7MJSrL18YKQ3WND9+7wq7ylhyxgeOCQ7K5U9dWnfxCIav/9BVm+AxG/GTek6p3mUG5t3R847aE/A8XXYwOwbnh9SV9HWmEvnLPwVmkmHbwpJlIvKyJEWtfR7ELI+d9NxZlTZdJFWDJ6brbbyGjp0j1wYlDC+A7DYyrM09htUeRq9z+yDqoi+NK/KdObIvovT5gw7znx5OO84d9QEMEfPmhiQFY76yWz7pt5zjGESE1Gkt7adZ1oLaTKkV1bdm+lHZ3cQnLaKKJIlnWTQoElYofXosxjuPCtwIDAQAB",
+   "manifest_version": 3,
+   "name": "Phish Alert Button",
+   "oauth2": {
+      "client_id": "682409154127-0iivv9sj7c06t2niq3cb54l8tshdj0gq.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/gmail.modify", "https://www.googleapis.com/auth/gmail.send", "https://www.googleapis.com/auth/userinfo.profile" ]
+   },
+   "options_page": "html/options.html",
+   "permissions": [ "storage", "identity", "identity.email", "scripting" ],
+   "storage": {
+      "managed_schema": "schema/schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.16"
+}

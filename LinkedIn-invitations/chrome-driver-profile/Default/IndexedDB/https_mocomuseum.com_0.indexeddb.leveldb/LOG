@@ -1,0 +1,6 @@
+2023/02/14-15:54:59.032 cc27 Creating DB /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_mocomuseum.com_0.indexeddb.leveldb since it was missing.
+2023/02/14-15:54:59.090 cc27 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_mocomuseum.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/14-16:06:23.386 34b07 Level-0 table #5: started
+2023/02/14-16:06:23.406 34b07 Level-0 table #5: 790 bytes OK
+2023/02/14-16:06:23.448 34b07 Delete type=0 #3
+2023/02/14-16:06:23.449 34b07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

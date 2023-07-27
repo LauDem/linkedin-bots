@@ -1,0 +1,6 @@
+2023/04/12-08:45:33.381 a103 Creating DB /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb since it was missing.
+2023/04/12-08:45:33.458 a103 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/12-08:45:36.731 a103 Level-0 table #5: started
+2023/04/12-08:45:36.746 a103 Level-0 table #5: 403 bytes OK
+2023/04/12-08:45:36.813 a103 Delete type=0 #3
+2023/04/12-08:45:36.813 a103 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

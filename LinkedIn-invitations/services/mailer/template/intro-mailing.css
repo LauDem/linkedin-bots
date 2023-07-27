@@ -1,0 +1,8 @@
+#signature {
+    display: flex;
+    flex-direction: column;
+}
+
+#signature img {
+    width: 100px; /* or any percentage less than 100, or a fixed size in pixels */
+}

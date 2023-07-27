@@ -1,0 +1,7 @@
+2023/03/29-23:16:54.854 a707 Reusing MANIFEST /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/29-23:16:54.854 a707 Recovering log #3
+2023/03/29-23:16:54.855 a707 Reusing old log /Users/ldemouge/SRC/bots/LinkedIn-invitations/chrome-driver-profile/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/03/29-23:16:59.531 a707 Level-0 table #5: started
+2023/03/29-23:16:59.553 a707 Level-0 table #5: 13439 bytes OK
+2023/03/29-23:16:59.595 a707 Delete type=0 #3
+2023/03/29-23:16:59.596 a707 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

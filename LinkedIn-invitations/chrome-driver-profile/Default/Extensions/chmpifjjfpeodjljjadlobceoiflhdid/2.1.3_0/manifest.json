@@ -1,0 +1,106 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/19.png",
+         "38": "img/38.png"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "vendor-content.js", "gcal.js" ],
+      "matches": [ "https://calendar.google.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "css": [ "styles/gmail.css" ],
+      "js": [ "vendor-content.js", "gmail.js" ],
+      "matches": [ "https://mail.google.com/*", "https://contacts.google.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "js": [ "vendor-content.js", "linkedin.js" ],
+      "matches": [ "*://*.linkedin.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "css": [ "styles/salesforceLightning.css" ],
+      "js": [ "vendor-content.js", "salesforceLightning.js" ],
+      "matches": [ "*://*.lightning.force.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "css": [ "styles/salesforceClassic.css" ],
+      "exclude_globs": [ "https://login.*" ],
+      "js": [ "vendor-content.js", "salesforceClassic.js" ],
+      "matches": [ "*://*.salesforce.com/*", "*://*.visualforce.com/*", "*://*.vf.force.com/*", "*://*.visual.force.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "css": [ "styles/microsoftDynamics.css" ],
+      "js": [ "vendor-content.js", "microsoftDynamics.js" ],
+      "matches": [ "*://*.dynamics.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "exclude_globs": [ "*/kaia/live*", "*/k/live*", "*/mi/live*" ],
+      "include_globs": [ "https://web.*", "https://sidebar.*", "https://app??.*", "https://a.web.*" ],
+      "js": [ "outreachAppAddons.js" ],
+      "matches": [ "https://*.outreach.io/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "exclude_globs": [ "*/kaia/live*", "*/k/live*", "*/mi/live*" ],
+      "include_globs": [ "https://web.*", "https://sidebar.*", "https://app??.*", "https://a.web.*" ],
+      "js": [ "vendor-content.js", "outreachApp.js" ],
+      "matches": [ "https://*.outreach.io/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "exclude_globs": [ "*/kaia/live*", "*/k/live*", "*/mi/live*" ],
+      "include_globs": [ "https://web.*", "https://sidebar.*", "https://app??.*", "https://a.web.*" ],
+      "js": [ "vendor-content.js", "bridge.js" ],
+      "matches": [ "https://*.outreach.io/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "accounts.js" ],
+      "matches": [ "https://accounts.outreach.io/users/sign_in", "https://accounts.outreach.io/users/sign_in/" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "styles/gmail.css" ],
+      "include_globs": [ "*/mail.google.com/*" ],
+      "js": [ "vendor-content.js", "gmail.js" ],
+      "matches": [ "*://localhost/*" ],
+      "run_at": "document_end"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "openTracking",
+         "path": "rules/openTracking.json"
+      } ]
+   },
+   "description": "Sell smarter, while you surf.",
+   "devtools_page": "devtools/index.html",
+   "differential_fingerprint": "1.236bd834b1d5cb3b5089f05ee684f5c0a985554b6776bceaa49d6238e8003dea",
+   "externally_connectable": {
+      "matches": [ "*://sidebar.outreach.io/*", "*://web.outreach.io/*" ]
+   },
+   "homepage_url": "https://outreach.io",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "48": "img/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqM+d6wy6z0qGNn82dir1njebPlqWDszOtTennms9D8CiM7yxt15/7in8k9gZPZyEFqhmGsmbCjcHFj6F051sHIyuz9kGHft8VgYaegtflSS3bd5dBPJeX47fGfrMlvn/8OMk1gWMZ/G28cmFIiiquioQozPIO0qcvAYJU7asclHw1ZRVmG/2Dsg56ePd63o3CvqiIBmnBa2dJU1FZWnHcbLcsfetkBuj9O5B6pH2cdDJ5M4rP/lcZ/IBcJYf+n36Cas4FCD2WT0Hr0fdPj3Wnzp/xnbUed3DFqyQ1L9oQ5OJdPcgmArqfWdAtqRwibFgBrCyLiewf6P44Ku33ZeMUwIDAQAB",
+   "manifest_version": 2,
+   "name": "Outreach Everywhere",
+   "permissions": [ "tabs", "storage", "declarativeNetRequest", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.3",
+   "web_accessible_resources": [ "orca-container.html", "gmail-event-proxy.js", "gmail-globals.js", "outreach-globals.js", "img/tracking.gif", "iframe-sidebar-container.html", "*.woff", "*.woff2" ]
+}
